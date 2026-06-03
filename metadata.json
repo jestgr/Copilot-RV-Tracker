@@ -1,0 +1,6 @@
+{
+  "name": "Travel Trailer Companion",
+  "description": "An essential companion application to assist with operating a travel trailer. Tracks scheduled maintenance logs, manages gear locker inventory, and creates interactive checklists with an AI bulk parser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
